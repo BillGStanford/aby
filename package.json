@@ -5,9 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
-    "postinstall": "chmod +x node_modules/.bin/*",
-    "preview": "vite preview"
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "postinstall": "chmod +x node_modules/.bin/*"
   },
   "dependencies": {
     "lucide-react": "^0.363.0",
