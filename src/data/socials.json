@@ -1,0 +1,72 @@
+{
+  "publication": {
+    "name": "Abyot",
+    "nameAmharic": "አብዮት",
+    "tagline": "Revolution is not an event — it is a process.",
+    "taglineAmharic": "አብዮት ክስተት አይደለም — ሂደት ነው።",
+    "url": "https://abyot.press",
+    "email": "pfle-dialogue@proton.me",
+    "submissionsEmail": "pfle-dialogue@proton.me",
+    "founded": "2024",
+    "description": "A vanguard publication for Marxist-Leninist analysis, anti-imperialist critique, and Ethiopian political discourse. We write for those who believe that understanding the world is the first step to changing it."
+  },
+  "socials": [
+    {
+      "id": "telegram",
+      "platform": "Telegram",
+      "handle": "@AbyotPress",
+      "url": "https://t.me/+9SqgNhz9LE0wMmQx",
+      "icon": "send",
+      "color": "#229ED9",
+      "description": "Join our Telegram channel for daily analysis and breaking dispatches.",
+      "cta": "Join on Telegram"
+    },
+    {
+      "id": "youtube",
+      "platform": "YouTube",
+      "handle": "Abyot Press",
+      "url": "https://www.youtube.com/@CommenerTV",
+      "icon": "youtube",
+      "color": "#FF0000",
+      "description": "Video essays, lectures, and documentary analysis.",
+      "cta": "Watch on YouTube"
+    },
+    {
+      "id": "x",
+      "platform": "X (Twitter)",
+      "handle": "@AbyotPress",
+      "url": "https://x.com/SidocHaytu",
+      "icon": "twitter",
+      "color": "#000000",
+      "description": "Dispatches, threads, and real-time commentary.",
+      "cta": "Follow on X"
+    },
+    {
+      "id": "substack",
+      "platform": "Substack",
+      "handle": "abyot.substack.com",
+      "url": "https://sidochaytu.substack.com/",
+      "icon": "mail",
+      "color": "#FF6719",
+      "description": "Long-form essays and subscriber-exclusive deep dives.",
+      "cta": "Subscribe on Substack"
+    },
+    {
+      "id": "addis_standard",
+      "platform": "Addis Standard",
+      "handle": "Columnist",
+      "url": "https://addisstandard.com",
+      "icon": "newspaper",
+      "color": "#1a1a1a",
+      "description": "Our editor's regular column in Ethiopia's premier English-language news outlet.",
+      "cta": "Read at Addis Standard"
+    }
+  ],
+  "newsletter": {
+    "headline": "The Revolutionary Dispatch",
+    "description": "Analysis, theory, and dispatches delivered to your inbox. No algorithms. No noise. Just clarity.",
+    "placeholder": "your@email.com",
+    "cta": "Subscribe — It's Free",
+    "frequency": "Weekly"
+  }
+}

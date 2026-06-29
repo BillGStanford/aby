@@ -1,0 +1,916 @@
+{
+  "articles": [
+    {
+      "id": "art_001",
+      "slug": "ethiopia-isnt-poor-europe-needs-us",
+      "title": "No, Ethiopia Isn't Poor. Europe Didn't Civilize Us. Europe Needed Us.",
+      "subtitle": "The huts you see in old photographs were not backward. They were adapted. The systems that Europe destroyed were not primitive. They were superior for their conditions. And the poverty you see today is not a failure of African civilization—it is a success of European extraction.",
+      "author": {
+        "name": "Sidoc Haytu",
+        "bio": "Sidoc Haytu is a political analyst and columnist at Addis Standard. They write on Ethiopian politics, revolutionary history, and the structural dynamics of the Horn of Africa.",
+        "avatar": "https://pbs.twimg.com/profile_images/2059359421717778432/axvPtrqU_400x400.jpg",
+        "role": "Editor & Columnist"
+      },
+      "publishDate": "2026-06-28",
+      "updatedDate": null,
+      "readTime": "12 min read",
+      "coverImage": {
+        "url": "https://nai.uu.se/images/200.285d5a5916e44e5db28a802/1575292846439/Topic-Natural-resources.jpg",
+        "caption": "African farmers in the highlands of Ethiopia, 1960s. The European project in Africa was not about development. It was about extraction.",
+        "credit": "NAI UU"
+      },
+      "category": "History",
+      "genre": "Political Analysis",
+      "tags": ["Ethiopia", "Africa", "Colonialism", "History", "Underdevelopment", "Walter Rodney", "Indigenous Knowledge"],
+      "featured": true,
+      "breaking": false,
+      "editors_pick": true,
+      "content": [
+        {
+          "type": "lede",
+          "text": "The story you have been told about Ethiopia—about Africa—is a lie. It is not a small lie. It is not an accidental lie. It is a lie that has been repeated for centuries, by missionaries, by colonial administrators, by anthropologists who never lived in the villages they wrote about, by economists who have never planted a seed in African soil."
+        },
+        {
+          "type": "paragraph",
+          "text": "The lie is this: that Africa was backward before Europe arrived. That African huts were primitive. That African systems were inferior. That African people needed civilization, needed Christianity, needed markets, needed discipline—needed Europe. The lie is that Africa was empty, waiting to be filled by European knowledge and European capital. The lie is that everything good in Africa came from somewhere else."
+        },
+        {
+          "type": "paragraph",
+          "text": "This lie is taught in schools. It is repeated in universities. It is assumed in every development report, every IMF mission, every NGO project proposal. It is the foundation upon which the global order is built. Because if Africa was always poor, then African poverty is natural. If African poverty is natural, then Europe has no responsibility. If Europe has no responsibility, then the extraction can continue forever."
+        },
+        {
+          "type": "subheading",
+          "text": "What Ethiopia Had Before Europe Arrived"
+        },
+        {
+          "type": "paragraph",
+          "text": "Before the colonial era, Ethiopia was not a blank space on the map. It was an empire. It was a civilization. It was a network of kingdoms, trade routes, legal systems, and agricultural practices that sustained millions of people for centuries."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Aksumite Empire, which flourished from the first century CE to the seventh century CE, built stone obelisks that still stand today. It minted its own coins. It traded with Rome, with Persia, with India, with China. It converted to Christianity before much of Europe. It had a written language—Ge'ez—that is still used in liturgy today."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Zagwe dynasty built the rock-hewn churches of Lalibela—eleven structures carved from the earth itself, so precisely that archaeologists still debate how they were constructed. These were not primitive huts. They were architectural achievements that required generations of accumulated knowledge."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Solomonic dynasty, which claimed descent from King Solomon and the Queen of Sheba, ruled Ethiopia for centuries. It administered a complex feudal system. It maintained diplomatic relations with European powers. It repelled colonial invasions—first the Portuguese, later the Italians. The Battle of Adwa in 1896 was not a lucky victory. It was the outcome of a state that understood its enemies and mobilized its people."
+        },
+        {
+          "type": "subheading",
+          "text": "The Huts Were Not Primitive. They Were Adapted."
+        },
+        {
+          "type": "paragraph",
+          "text": "You have seen the photographs. The round huts. The thatched roofs. The mud walls. The colonial archives are full of them, always captioned with the same implicit message: *Look at how they live. They need us.*"
+        },
+        {
+          "type": "paragraph",
+          "text": "But the huts were not primitive. They were adapted."
+        },
+        {
+          "type": "paragraph",
+          "text": "The circular tukul of the Ethiopian highlands was not a failure to build a square house. It was a sophisticated response to climate, materials, and social structure. The round shape resists high winds better than a square structure. The thatched roof provides insulation—cool in the day, warm at night. The walls are made of materials available locally, requiring no imported cement. The structure is designed to be built and repaired by the community that lives in it, requiring no specialists, no external capital, no imported technology."
+        },
+        {
+          "type": "paragraph",
+          "text": "The African village was not a collection of primitive shelters. It was a carefully organized human habitat, designed for sustainability, for social cohesion, for resilience in the face of drought and flood. The hut was not a failure to build a house. It was a different way of building—one that worked for its conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "When Europeans arrived with their rectangular houses and imported materials, they were not bringing civilization. They were bringing a different building tradition—one that required imported timber, imported nails, imported cement, imported expertise. A tradition that made the local people dependent on the global market. A tradition that transferred wealth from the colony to the metropole."
+        },
+        {
+          "type": "subheading",
+          "text": "European Systems Were Not Superior. They Were More Destructive."
+        },
+        {
+          "type": "paragraph",
+          "text": "The myth of European superiority is built on selective comparison. Europeans compare their best—their cathedrals, their universities, their scientific discoveries—with Africa's worst—its famines, its wars, its underdevelopment. But the comparison is dishonest."
+        },
+        {
+          "type": "paragraph",
+          "text": "Europe was not peaceful. It was not prosperous. It was not democratic. For most of its history, Europe was a series of warring kingdoms, plagued by plague, famine, and religious persecution. The Crusades killed millions. The Inquisition burned thousands. The Thirty Years' War depopulated entire regions. The Holocaust happened in Europe, not in Africa."
+        },
+        {
+          "type": "paragraph",
+          "text": "What Europe had, and what Africa lacked, was not civilization. What Europe had was access to global resources through conquest. The industrial revolution in Europe was financed by the slave trade, by colonial extraction, by the theft of African gold, and by the destruction of African economies. Europe got rich not because it was civilized, but because it was violent."
+        },
+        {
+          "type": "blockquote",
+          "text": "The industrial revolution in Europe was not powered by European genius. It was powered by African labor, African resources, and African misery.",
+          "attribution": "Sidoc Haytu"
+        },
+        {
+          "type": "subheading",
+          "text": "What Europe Destroyed"
+        },
+        {
+          "type": "paragraph",
+          "text": "The presence of Europe in Africa did not develop Africa. It destroyed Africa. The Ganda historian and revolutionary Walter Rodney documented this in his book *How Europe Underdeveloped Africa*. He showed that the relationship between Europe and Africa was not a relationship of development, but of systematic underdevelopment."
+        },
+        {
+          "type": "paragraph",
+          "text": "The slave trade removed 12 to 15 million people from the continent—the young, the healthy, the productive. The colonial conquest destroyed African political systems, replacing them with artificial states that had no basis in African history or social organization. The colonial economy extracted raw materials and prevented industrialization. The post-colonial debt system transferred billions from Africa to the West."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ethiopia experienced all of this. It was not colonized in the same way as the rest of Africa—it maintained its independence until 1935—but it was integrated into the global economy on terms that served Europe, not Ethiopia. The Ethiopian state was reshaped by European ideas of sovereignty, territory, and race. Ethiopian identity was fractured by European ideas of ethnicity. Ethiopian resources—gold, coffee, land—were extracted by European capital."
+        },
+        {
+          "type": "subheading",
+          "text": "What We Can Do"
+        },
+        {
+          "type": "paragraph",
+          "text": "If the poverty of Ethiopia is not a failure of Ethiopian civilization, then the solution cannot be more European civilization. The solution cannot be more IMF programs, more structural adjustment, more privatization, more foreign investment. The solution cannot be more Christianity, more markets, more democracy as defined by the West."
+        },
+        {
+          "type": "paragraph",
+          "text": "The solution is not to become more like Europe. The solution is to become more like ourselves."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is not nostalgia. This is not a call to return to the past. The past is gone, and we would not want to return to it if we could. But the past contains lessons. The past shows us that we had systems that worked—systems of governance, of agriculture, of social organization, of knowledge production. Those systems were destroyed by colonialism, not because they were inferior, but because they stood in the way of extraction."
+        },
+        {
+          "type": "paragraph",
+          "text": "We can rebuild them. Not as they were—that would be impossible, and it would be wrong—but as they could be: modern, democratic, equitable, and African."
+        },
+        {
+          "type": "paragraph",
+          "text": "We can rebuild a food system that feeds its own people first, not the export markets of Europe. We can rebuild an economy that produces what its people need, not what foreign investors demand. We can rebuild a political system that reflects Ethiopian realities, not the templates imported from Washington and Brussels. We can rebuild a social system that values community over individualism, solidarity over competition, care over consumption."
+        },
+        {
+          "type": "subheading",
+          "text": "The First Step: Reject the Lie"
+        },
+        {
+          "type": "paragraph",
+          "text": "The first step is to reject the lie. To reject the lie that Ethiopia was always poor. To reject the lie that Ethiopian culture is backward. To reject the lie that European systems are superior. To reject the lie that poverty is natural. To reject the lie that development means becoming more like Europe."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is not a denial of reality. Ethiopia is poor. Ethiopian systems have been degraded. Ethiopian people have suffered. But poverty is not our identity. Degradation is not our essence. Suffering is not our destiny. We are the descendants of people who built empires, who carved churches from rock, who traded with the world, who defeated colonial armies. We are the descendants of people who did not need Europe. We are the descendants of people who resisted Europe."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is our inheritance. That is our identity. That is the foundation of our future."
+        },
+        {
+          "type": "paragraph",
+          "text": "The European project in Africa is ending. Not because Europe has decided to be generous. Because it is exhausting itself. Because the global order is shifting. Because the peoples of the Global South are rising. Because the lie cannot sustain itself forever."
+        },
+        {
+          "type": "paragraph",
+          "text": "When the European project ends, something else will take its place. It could be another version of the same thing—Chinese, Gulf, or even another form of Western control. Or it could be something new—something African, something Ethiopian, something that serves the people, not the extractors."
+        },
+        {
+          "type": "paragraph",
+          "text": "That choice is ours. Not the European powers. Not the Chinese investors. Not the Gulf monarchies. Ours. The Ethiopian people."
+        },
+        {
+          "type": "blockquote",
+          "text": "Africa is not poor. Africa is stolen. Ethiopia is not backward. Ethiopia is underdeveloped. We did not fail. We were failed. And the failure was not ours.",
+          "attribution": "Sidoc Haytu"
+        },
+        {
+          "type": "subheading",
+          "text": "What We Can Do: A Practical Program"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is not a call to activism. It is a call to organization. The problem with Ethiopian resistance is not the lack of resistance—the streets of Addis Abeba have been full of protests for a decade. The problem is organization. The problem is that the resistance is scattered, fragmented, divided. The problem is that the resistance is channeled into ethnicity, into region, into sect, while the class that profits from our division remains united."
+        },
+        {
+          "type": "paragraph",
+          "text": "The resistance must become organized. It must become class-conscious. It must become disciplined. And it must become internationalist—not because we care about the world, but because the world cares about us. The Ethiopian revolution will not happen in isolation. It will happen as part of a global movement of the oppressed."
+        },
+        {
+          "type": "paragraph",
+          "text": "So what can you do?"
+        },
+        {
+          "type": "paragraph",
+          "text": "First: Educate yourself. Read the history that was hidden from you. Read Walter Rodney. Read Basil Davidson. Read Frantz Fanon. Read the works of Ethiopian revolutionaries who fought for a different Ethiopia. The knowledge is out there. It has always been out there. The establishment just hoped you would not find it."
+        },
+        {
+          "type": "paragraph",
+          "text": "Second: Educate others. Share what you have learned. Discuss it with your neighbors. Discuss it with your coworkers. Discuss it with your family. The revolution is not a secret society. It is a mass movement. And mass movements require mass education."
+        },
+        {
+          "type": "paragraph",
+          "text": "Third: Organize. Join a union. Join a student organization. Join a peasant association. Join a neighborhood committee. If none of these exist, create them. The revolution is not built by individuals. It is built by organizations. And organizations are built by people who show up, week after week, meeting after meeting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fourth: Refuse. Refuse to pay the debt that was taken out in your name. Refuse to accept the privatization of your public assets. Refuse to fight in wars that serve the ruling class. Refuse to be silent. Refuse to be divided. Refuse to be controlled."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fifth: Build the alternative. Start a cooperative. Start a community garden. Start a free school. Start a health clinic. Start a workers' council. The alternative to the system is not just a theory. It is a practice. We must build the institutions of the new society while the old society crumbles."
+        },
+        {
+          "type": "paragraph",
+          "text": "None of this is easy. It will not be easy. The ruling class will resist. The IMF will resist. The Western powers will resist. They will call us extremists. They will call us terrorists. They will call us enemies of development. They will call us everything except what we are: the people who refuse to be exploited."
+        },
+        {
+          "type": "paragraph",
+          "text": "But we can do this. We must do this. Because the alternative is more of the same—more poverty, more hunger, more war, more displacement, more despair. The alternative is what we have now. And what we have now is not acceptable."
+        },
+        {
+          "type": "paragraph",
+          "text": "The history of Ethiopia is not a history of poverty. It is a history of wealth—wealth that was stolen. The future of Ethiopia is not poverty. It is the recovery of that wealth—and its distribution to the people who produced it."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is the task. That is the challenge. That is the revolution."
+        },
+        {
+          "type": "paragraph",
+          "text": "And it begins with rejecting the lie. It begins with saying: *No. Ethiopia is not poor. Ethiopia is stolen.*"
+        },
+        {
+          "type": "subheading",
+          "text": "The Path Forward"
+        },
+        {
+          "type": "paragraph",
+          "text": "The European century is over. The African century is coming. But it will not come automatically. It will not come because the world is fair. It will come because we make it come. It will come because we organize. It will come because we refuse to accept the suffering that has been imposed on us."
+        },
+        {
+          "type": "paragraph",
+          "text": "The continent is rich. The resources are here. The people are here. The knowledge is here. The history is here. The only thing missing is the will."
+        },
+        {
+          "type": "paragraph",
+          "text": "Find the will. And the rest will follow."
+        }
+      ]
+    },
+    {
+      "id": "art_002",
+      "slug": "the-case-for-abiy-ahmed-ali",
+      "title": "The Case for Abiy Ahmed Ali",
+      "subtitle": "Let us make the case for our beloved Prime Minister. After all, who else could have accomplished so much in so little time? Who else could have won a Nobel Peace Prize while waging war? Who else could have built a beautiful new park while the country burned? We must defend him—so let us do it properly.",
+      "author": {
+        "name": "Sidoc Haytu",
+        "bio": "Sidoc Haytu is a political analyst and columnist at Addis Standard. They write on Ethiopian politics, revolutionary history, and the structural dynamics of the Horn of Africa.",
+        "avatar": "https://pbs.twimg.com/profile_images/2059359421717778432/axvPtrqU_400x400.jpg",
+        "role": "Editor & Columnist"
+      },
+      "publishDate": "2026-06-02",
+      "updatedDate": null,
+      "readTime": "8 min read",
+      "coverImage": {
+        "url": "https://bylinetimes.com/wp-content/uploads/2019/10/ABIY-AHMED.jpg",
+        "caption": "The Prime Minister of Ethiopia, Abiy Ahmed. Our King?",
+        "credit": "Unsplash / Illustrative"
+      },
+      "category": "Commentary",
+      "genre": "Political Satire",
+      "tags": ["Abiy Ahmed", "Ethiopia", "Prosperity Party", "Nobel Prize", "Medemer", "Satire", "War", "IMF"],
+      "featured": true,
+      "breaking": false,
+      "editors_pick": true,
+      "content": [
+        {
+          "type": "lede",
+          "text": "Let us make the case for Abiy Ahmed Ali. After all, the man deserves our support. He has done so much for this country. So much, in fact, that it is almost impossible to keep track of all his achievements. But we will try. We will list them. And we will defend him."
+        },
+        {
+          "type": "paragraph",
+          "text": "Who else could have won a Nobel Peace Prize while waging a war that killed hundreds of thousands of people? Only a true visionary. Only a man who understands that peace is not about stopping violence. It is about managing it. It is about making sure the violence is the right kind—the kind that wins international recognition. The Nobel Committee saw this. They understood. They gave him the prize. And we should be grateful."
+        },
+        {
+          "type": "paragraph",
+          "text": "Who else could have ended a decades-long conflict with Eritrea—only to restart it a few years later? Genius. Pure genius. The first peace agreement was a masterpiece of diplomacy. The second war was a masterpiece of strategy. Only Abiy could have pulled off both. Only Abiy could have made peace and war the same thing. Only Abiy could have convinced us that the peace was real while the war was also real. We are so lucky."
+        },
+        {
+          "type": "subheading",
+          "text": "Medemer: The Philosophy That Says Nothing"
+        },
+        {
+          "type": "paragraph",
+          "text": "Consider Medemer. What a word. What a concept. It means synergy. It means coming together. It means unity. But what does it actually mean? Does anyone know? Does anyone care? It sounds beautiful. It sounds important. It sounds like something you should believe in. But try to explain it to someone. Try to tell them what it means for their rent. Try to tell them what it means for their child's education. Try to tell them what it means for the war in Tigray."
+        },
+        {
+          "type": "paragraph",
+          "text": "You cannot. Because Medemer is not a philosophy. It is a slogan. It is a word that fills the space where ideas should be. It is a word that allows the government to say something without saying anything. It is a word that makes you feel like you are part of something without giving you anything to be part of. It is the perfect philosophy for a government that does not want you to think."
+        },
+        {
+          "type": "blockquote",
+          "text": "Medemer: the Amharic word for synergy. Also the Amharic word for 'we have no plan, but please clap.'",
+          "attribution": "Sidoc Haytu"
+        },
+        {
+          "type": "subheading",
+          "text": "The Beautiful City"
+        },
+        {
+          "type": "paragraph",
+          "text": "Look at Addis Abeba. Look at the new Friendship Park. Look at the renovated palace. Look at the beautiful lights, the clean streets, the new buildings. It is stunning. It is magnificent. It is a testament to what the government can achieve when it focuses on what matters."
+        },
+        {
+          "type": "paragraph",
+          "text": "Of course, the people who live in the slums—the ones whose homes were demolished to make room for those beautiful buildings—they might not appreciate it. But they are not the target audience. The target audience is the international community. The target audience is the tourists. The target audience is the people who will never live in Addis, who will never see the slums, who will only see the beautiful surface."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is what matters. Not housing for the poor. Not services for the people. Not infrastructure that serves the working class. Beauty. The kind of beauty that looks good in photographs. The kind of beauty that wins awards. The kind of beauty that makes the international community forget about the war."
+        },
+        {
+          "type": "subheading",
+          "text": "The IMF: A Love Story"
+        },
+        {
+          "type": "paragraph",
+          "text": "And who could forget the IMF? What a partnership. What a romance. The IMF comes to Ethiopia with loans. The government accepts the loans. The IMF demands reforms. The government implements the reforms. The IMF praises the reforms. The people pay for the reforms."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is a beautiful relationship. The IMF gets to extract. The government gets to take credit. The people get to suffer. Everyone wins. Well, not everyone. But the people who matter win. And that is what counts."
+        },
+        {
+          "type": "paragraph",
+          "text": "The IMF demanded devaluation. The government devalued the birr. The prices went up. The wages stayed the same. The people got poorer. The IMF was happy. The government was happy. The people were unhappy—but the people are always unhappy. Their happiness is not the point."
+        },
+        {
+          "type": "paragraph",
+          "text": "The IMF demanded privatization. The government sold Ethiopian Airlines to Gulf carriers. It sold Ethio Telecom to Safaricom. It sold the banks to foreign investors. The assets are gone. The profits are gone. The debt remains. But the IMF is happy. And the government is happy. And that is what matters."
+        },
+        {
+          "type": "subheading",
+          "text": "The War: A Masterclass in Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the war. What can we say about the war? It was a masterpiece. It was a lesson in how to manage conflict. It was a demonstration of the government's commitment to peace—through violence."
+        },
+        {
+          "type": "paragraph",
+          "text": "The war in Tigray killed hundreds of thousands of people. It displaced millions. It destroyed infrastructure. It created a humanitarian crisis. But the government managed it. It managed the narrative. It managed the international coverage. It managed the humanitarian response. It managed to convince the international community that it was the victim, not the aggressor."
+        },
+        {
+          "type": "paragraph",
+          "text": "And when the war ended—when the peace agreement was signed—the government took credit for ending a war it had started. It took credit for peace it had destroyed. It took credit for lives it had taken. And the international community applauded. Because the international community loves a happy ending."
+        },
+        {
+          "type": "subheading",
+          "text": "The Opposition: Crushed, But Not Silenced (Because They Are Silenced)"
+        },
+        {
+          "type": "paragraph",
+          "text": "And what about the opposition? The Oromo Liberation Front. The National Movement of Amhara. The countless other parties and movements that dared to challenge the government. What happened to them?"
+        },
+        {
+          "type": "paragraph",
+          "text": "They were arrested. They were banned. They were harassed. They were silenced. And the government called it democracy. It called it the rule of law. It called it stability. It called it everything except what it was: the suppression of dissent."
+        },
+        {
+          "type": "paragraph",
+          "text": "But who needs opposition? Who needs debate? Who needs democracy? The government knows what is best. The government knows what the people need. The people do not need to be consulted. They need to be led. And Abiy Ahmed is leading them. Whether they want it or not."
+        },
+        {
+          "type": "subheading",
+          "text": "The Press: A Lesson in Freedom"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the press. What a freedom. What a liberation. The government shut down Addis Standard. It arrested journalists. It expelled foreign correspondents. It passed laws that criminalized critical reporting. It called it national security."
+        },
+        {
+          "type": "paragraph",
+          "text": "But the press is free. It is free to say what the government wants it to say. It is free to report what the government wants it to report. It is free to be a mouthpiece for the government. That is freedom. That is the freedom that Abiy Ahmed has given to the Ethiopian press. We should be grateful."
+        },
+        {
+          "type": "subheading",
+          "text": "The Economy: A Miracle"
+        },
+        {
+          "type": "paragraph",
+          "text": "And the economy. What a miracle. The IMF says the economy is growing. The World Bank says the economy is growing. The government says the economy is growing. It must be true. It is not like the people are suffering. It is not like the prices are skyrocketing. It is not like the wages are stagnating. It is not like the unemployment is rising. It is not like the debt is crushing."
+        },
+        {
+          "type": "paragraph",
+          "text": "The economy is growing. The government says so. The IMF says so. The World Bank says so. And they would never lie. They would never lie to protect their interests. They would never lie to justify their policies. They would never lie to extract more wealth. They are honest. They are trustworthy. They have our best interests at heart."
+        },
+        {
+          "type": "subheading",
+          "text": "The Conclusion: A Call to Support"
+        },
+        {
+          "type": "paragraph",
+          "text": "So let us support Abiy Ahmed Ali. Let us support him for winning the Nobel Peace Prize. Let us support him for starting and ending a war. Let us support him for building a beautiful park. Let us support him for selling our assets. Let us support him for silencing the opposition. Let us support him for crushing the press. Let us support him for making the country beautiful—on the surface."
+        },
+        {
+          "type": "paragraph",
+          "text": "Let us support him because the alternative is too frightening. The alternative is thinking. The alternative is organizing. The alternative is demanding something different. The alternative is believing that the country could be different. That the government could be different. That the future could be different."
+        },
+        {
+          "type": "paragraph",
+          "text": "That is too frightening. That requires too much work. That requires too much courage. So let us support Abiy Ahmed Ali. Let us support him because it is easier. Let us support him because we are afraid. Let us support him because we have given up."
+        },
+        {
+          "type": "paragraph",
+          "text": "But if you are not afraid. If you have not given up. If you believe that the country could be different. Then read the rest of this publication. Then organize with your neighbors. Then demand a different future."
+        },
+        {
+          "type": "paragraph",
+          "text": "Because Abiy Ahmed Ali is not the answer. He is the problem. And the sooner we admit it, the sooner we can begin to solve it."
+        },
+        {
+          "type": "blockquote",
+          "text": "The case for Abiy Ahmed Ali is the case for a beautiful lie over an ugly truth. The case for Abiy Ahmed Ali is the case for giving up. The case for Abiy Ahmed Ali is the case for silence. The case against Abiy Ahmed Ali is the case for the future.",
+          "attribution": "Sidoc Haytu"
+        },
+        {
+          "type": "subheading",
+          "text": "What You Can Do"
+        },
+        {
+          "type": "paragraph",
+          "text": "Share this article. Not because it is funny—though it is. Not because it is clever—though it is. Share it because it is true. Share it because the people need to see the absurdity of the regime. Share it because laughter is the beginning of resistance. Share it because when you laugh at the powerful, you stop being afraid of them. Share it because you are ready for something different."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then organize. Because laughter alone will not change anything. Only organization will."
+        }
+      ]
+    },
+    {
+      "id": "art_003",
+      "slug": "garden-of-the-wretched",
+      "title": "Garden of the Wretched: Ethiopia's Beautiful Surface and the Coming Collapse",
+      "subtitle": "They have built you a beautiful park. They have planted flowers where your homes once stood. They have painted the city and called it progress. But beneath the surface, the country is burning. And the fire is about to consume everything.",
+      "author": {
+        "name": "Sidoc Haytu",
+        "bio": "Sidoc Haytu is a political analyst and columnist at Addis Standard. They write on Ethiopian politics, revolutionary history, and the structural dynamics of the Horn of Africa.",
+        "avatar": "https://pbs.twimg.com/profile_images/2059359421717778432/axvPtrqU_400x400.jpg",
+        "role": "Editor & Columnist"
+      },
+      "publishDate": "2026-06-05",
+      "updatedDate": null,
+      "readTime": "10 min read",
+      "coverImage": {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7j9ueAdXI8vGFkSiCgVFz0-YGt_yREz6craHY6qycBb2DRCzq-JXg3w&s=10",
+        "caption": "The Friendship Park in Addis Abeba—a garden built on the rubble of homes and the hopes of the poor.",
+        "credit": "Ketema Journal"
+      },
+      "category": "Analysis",
+      "genre": "Political Economy",
+      "tags": ["Ethiopia", "Liberalization", "Privatization", "IMF", "South Korea", "Collapse", "Traditional Values", "Nationalism"],
+      "featured": true,
+      "breaking": false,
+      "editors_pick": true,
+      "content": [
+        {
+          "type": "lede",
+          "text": "They have built you a beautiful garden. Look at it. The flowers are blooming. The fountains are flowing. The paths are clean. It is a masterpiece of urban design. It is a testament to what the government can achieve when it focuses on what matters."
+        },
+        {
+          "type": "paragraph",
+          "text": "But look closer. Look at the soil beneath the flowers. It is not soil. It is rubble—the rubble of homes that were demolished to make way for this garden. It is the remains of families who were displaced, of communities that were destroyed, of lives that were uprooted so that the Prime Minister could have a beautiful view."
+        },
+        {
+          "type": "paragraph",
+          "text": "The garden is a lie. It is a beautiful lie. But it is a lie nonetheless. And the lie is about to collapse."
+        },
+        {
+          "type": "subheading",
+          "text": "What Ethiopia Was"
+        },
+        {
+          "type": "paragraph",
+          "text": "Before the liberalization, before the privatization, before the IMF came with its loans and its demands, Ethiopia had something that is now being destroyed: a sense of itself."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ethiopia had a history. It had a culture. It had traditions that had survived for millennia. It had a sense of community that could not be reduced to market transactions. It had a way of life that was not about consumption, not about profit, not about accumulation. It was about survival. It was about solidarity. It was about the land."
+        },
+        {
+          "type": "paragraph",
+          "text": "The traditional Ethiopian village was not a collection of individuals competing for resources. It was a community. The *idir*—the funeral association—was not a financial institution. It was a social bond. The *iqub*—the savings circle—was not a bank. It was a promise. The *gadaa* system of the Oromo was not a government. It was a way of organizing life that had been refined over centuries."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ethiopians are renowned for being welcoming, considerate, cooperative and non-confrontational people. Despite our diversity, we are generally united by our patriotism and pride in the country's overarching cultural identity. Ethiopia possesses a wealth of indigenous knowledge that can significantly contribute to nation-building, from cultural ceremonies that promote togetherness to our rich historical tapestry that provides a cultural foundation vital for fostering unity among our diverse population."
+        },
+        {
+          "type": "paragraph",
+          "text": "These systems were not perfect. They had their own hierarchies, their own exclusions, their own injustices. But they were *Ethiopian*. They were *ours*. They were not imported. They were not imposed. They grew from the soil, from the experience of the people, from the struggle to survive in a difficult land."
+        },
+        {
+          "type": "subheading",
+          "text": "What Ethiopia Is Becoming"
+        },
+        {
+          "type": "paragraph",
+          "text": "Now, look at what is happening. The government is selling everything. Ethiopian Airlines—the pride of Africa—is being prepared for sale to Gulf carriers. Ethio Telecom has been sold to Safaricom. The banks are being opened to foreign investors. The land is being sold to developers. The water is being sold to agribusinesses. The future is being sold to the highest bidder."
+        },
+        {
+          "type": "paragraph",
+          "text": "The IMF has demanded liberalization. The government has complied. The birr has been devalued to become the third-weakest currency globally, trailing only the Argentine peso and the Turkish lira. Subsidies have been cut. Prices have soared. Wages have stagnated. The people are getting poorer. The foreign investors are getting richer."
+        },
+        {
+          "type": "paragraph",
+          "text": "A $3.4 billion IMF program requires policy changes such as foreign exchange liberalisation and privatisation efforts. The IMF has voiced apprehension about Ethiopia's incomplete move toward a floated exchange rate and off-budget spending that could undermine economic stability. In mid-2024, a fresh arrangement between the federal government and the IMF initiated a second phase of reforms to further liberalise sectors in finance, shipping, and telecommunications, and selling off of state-owned enterprises."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is not progress. This is liquidation. This is the destruction of a country. This is the transfer of wealth from the Ethiopian people to foreign capital. This is the end of Ethiopian sovereignty."
+        },
+        {
+          "type": "subheading",
+          "text": "The Human Cost of 'Reform'"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Ethiopia unveiled its record 2.34 trillion Birr budget for the 2025/26 fiscal year, government officials presented it as evidence of a state mobilizing resources for reform, growth, and economic recovery. Yet beyond the headline figures lies a different reality unfolding in households, bus stations, workplaces, and markets across the country."
+        },
+        {
+          "type": "paragraph",
+          "text": "For millions of Ethiopians living on fixed salaries, the budget is less a promise of prosperity than another sign of mounting economic pressure. Rising transport costs, expanding taxation, subsidy removals, inflation, and stagnant wages are converging to create a widening gap between income and survival."
+        },
+        {
+          "type": "paragraph",
+          "text": "A resident of the Summit area in Addis Abeba described the shock: 'Three weeks ago, I received a phone call informing me that my grandmother had passed away. I woke up early in the morning and went to the bus station to travel to Asella, but I couldn't find any public transport. Desperate not to miss the funeral, I ended up paying 6,000 Birr to travel by private automobile.'"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Adama, a resident described how transport costs have remained painfully high: 'A month ago, there was a severe shortage of vehicles. Now, however, the shortage has eased, and cars are available. Yet, the prices have skyrocketed.' The fare for travel between Adama and Addis Abeba has doubled to as much as 500 Birr, pushing the cost of a round trip to nearly 1,000 Birr."
+        },
+        {
+          "type": "paragraph",
+          "text": "A private company employee commuting daily from Tulu Dimtu to Bole now spends over 170 Birr a day on transportation alone—more than 4,400 Birr monthly. Such expenses consume a significant share of income for ordinary Ethiopians."
+        },
+        {
+          "type": "paragraph",
+          "text": "While floating the Ethiopian Birr pleased international lenders like the IMF and World Bank, it triggered a massive, sharp devaluation. Given Ethiopia remains heavily reliant on imported essentials—ranging from medicine and manufacturing inputs to fuel—the cost of everything has surged. Inflation has mutated from a statistic into a daily crisis."
+        },
+        {
+          "type": "blockquote",
+          "text": "First, they sold our airlines. Then, they sold our telecom. Then, they sold our banks. Then, they sold our land. And we clapped. We clapped because they told us it was progress. We clapped because we were afraid to ask questions. We clapped because we had forgotten what it meant to be Ethiopian.",
+          "attribution": "Sidoc Haytu"
+        },
+        {
+          "type": "subheading",
+          "text": "The South Korea Warning"
+        },
+        {
+          "type": "paragraph",
+          "text": "The apologists for liberalization point to South Korea. They say: 'Look at South Korea. They liberalized. They opened their economy. They became rich. Ethiopia can do the same.'"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is a lie. South Korea did not become rich through liberalization. South Korea became rich through protectionism, state planning, and industrial policy. The South Korean state actively managed the economy. It protected domestic industries. It directed investment. It created the conditions for the chaebols—the large conglomerates that now dominate the economy."
+        },
+        {
+          "type": "paragraph",
+          "text": "And what happened to South Korea? The chaebols now control 80 percent of the economy. The top 10 percent of the population controls 60 percent of the wealth. Youth unemployment has declined for 19 consecutive months. Young workers are disappearing from Korea's top companies. More than 700,000 people in their 20s and 30s are now classified as economically inactive, opting to remain at rest rather than search for work. The society is atomized. The culture is commodified. The traditional values have been destroyed."
+        },
+        {
+          "type": "paragraph",
+          "text": "South Korea is not a success story. It is a warning. It is a warning about what happens when a country abandons its traditions, sells its soul to capital, and becomes a subsidiary of the global economy."
+        },
+        {
+          "type": "paragraph",
+          "text": "And South Korea is still lucky. It is still a rich country. It still has a strong state. It still has a functioning economy. Ethiopia does not have these things. Ethiopia is poor. Ethiopia is weak. Ethiopia is fragmented. If Ethiopia follows the South Korean path, it will not become South Korea. It will become something worse—a failed state, a neo-colony, a playground for foreign investors."
+        },
+        {
+          "type": "subheading",
+          "text": "The Impending Explosion"
+        },
+        {
+          "type": "paragraph",
+          "text": "The liberalization of the Ethiopian economy is not a reform. It is a demolition. And demolitions create debris. The debris of this demolition will be the Ethiopian people."
+        },
+        {
+          "type": "paragraph",
+          "text": "The signs are already visible. By March 2026, labor grievances had evolved into protest in Tigray, where teachers and civil servants rallied against months of unpaid salaries. In May 2026, health professionals launched protests. In Amhara, authorities imposed a state of emergency following clashes between local fighters and federal troops, triggering protests by Amhara nationalists. After the murder of a popular singer, two days of protests left at least 81 people dead."
+        },
+        {
+          "type": "paragraph",
+          "text": "The government is building a garden while the country burns. It is planting flowers while the people starve. It is beautifying the capital while the peripheries collapse. It is creating a beautiful surface over a structure of decay."
+        },
+        {
+          "type": "blockquote",
+          "text": "The garden is beautiful. But the garden is built on rubble. And the rubble is the homes of our people. The flowers are watered with the tears of the displaced. The fountains flow with the blood of the dispossessed. This is not progress. This is obscenity.",
+          "attribution": "Sidoc Haytu"
+        },
+        {
+          "type": "subheading",
+          "text": "What We Can Do"
+        },
+        {
+          "type": "paragraph",
+          "text": "The first step is to see clearly. To see the garden for what it is. To see the government for what it is. To see the IMF for what it is. To see the liberalization for what it is. To see the privatization for what it is. To see the destruction for what it is."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second step is to refuse. To refuse to accept the garden as progress. To refuse to accept the privatization as reform. To refuse to accept the liberalization as development. To refuse to accept the IMF as a lender. To refuse to accept the government as legitimate."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third step is to organize. To build the unions, the peasant associations, the tenant councils, the student movements, the revolutionary party that can stop the destruction and build something new."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fourth step is to reclaim. To reclaim the land. To reclaim the resources. To reclaim the sovereignty. To reclaim the culture. To reclaim the future."
+        },
+        {
+          "type": "subheading",
+          "text": "The Alternative"
+        },
+        {
+          "type": "paragraph",
+          "text": "The alternative to liberalization is not isolation. It is independence. It is sovereignty. It is the right to determine our own future. It is the right to develop our own economy. It is the right to protect our own culture. It is the right to build our own society."
+        },
+        {
+          "type": "paragraph",
+          "text": "The alternative to privatization is not state ownership of everything. It is democratic control of the economy. It is the right of workers to own the factories. It is the right of peasants to own the land. It is the right of communities to control the resources."
+        },
+        {
+          "type": "paragraph",
+          "text": "The alternative to Western decadence is not a return to the past. It is a synthesis of the best of the past with the best of the future. It is the preservation of traditional values—solidarity, community, respect—while embracing the possibilities of modern technology. It is the creation of a society that is Ethiopian, modern, and just."
+        },
+        {
+          "type": "subheading",
+          "text": "The Call"
+        },
+        {
+          "type": "paragraph",
+          "text": "The garden is beautiful. But the garden is a lie. And the lie is about to collapse."
+        },
+        {
+          "type": "paragraph",
+          "text": "When it collapses, there will be chaos. There will be violence. There will be suffering. The ruling class will try to blame the people. The IMF will try to blame the government. The Western powers will try to blame everyone except themselves."
+        },
+        {
+          "type": "paragraph",
+          "text": "But we will know the truth. We will know who built the garden on rubble. We will know who sold the country to foreign investors. We will know who destroyed the future. And we will act."
+        },
+        {
+          "type": "paragraph",
+          "text": "The question is: will you be ready? Will you have organized? Will you have built the institutions of the new society? Will you have prepared for the collapse? Will you be able to lead the people through the chaos and build something new?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The time is short. The collapse is coming. The garden will not save you. Only organization will."
+        },
+        {
+          "type": "subheading",
+          "text": "What You Can Do"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are a worker, organize with your coworkers. If you are a farmer, organize with your neighbors. If you are a student, organize with your classmates. If you are a professional, organize with your colleagues. If you are a soldier, refuse to fight for a system that does not serve you."
+        },
+        {
+          "type": "paragraph",
+          "text": "Share this article. Not because it is clever—though it is. Share it because it is true. Share it because the people need to see the garden for what it is. Share it because laughter is the beginning of resistance. Share it because when you see the lie, you stop being afraid of it. Share it because you are ready for something different."
+        },
+        {
+          "type": "paragraph",
+          "text": "And then organize. Because seeing alone will not change anything. Only action will."
+        },
+        {
+          "type": "callout",
+          "text": "If you are ready to build, not just read, contact the author at pfle-dialogue@proton.me or follow on X at https://x.com/SidocHaytu."
+        }
+      ]
+    },
+    {
+      "id": "art_004",
+      "slug": "blackshirts-and-reds-ethiopia",
+      "title": "Blackshirts and Reds: How Fascism Serves Capitalism — and What It Means for Ethiopia",
+      "subtitle": "The Third World is not poor. It is overexploited. And the same class forces that destroyed socialism in Europe are now tightening their grip on the Horn of Africa.",
+      "author": {
+        "name": "Sidoc Haytu",
+        "bio": "Sidoc Haytu is a political analyst and columnist at Addis Standard. They write on Ethiopian politics, revolutionary history, and the structural dynamics of the Horn of Africa.",
+        "avatar": "https://pbs.twimg.com/profile_images/2059359421717778432/axvPtrqU_400x400.jpg",
+        "role": "Editor & Columnist"
+      },
+      "publishDate": "2026-06-10",
+      "updatedDate": null,
+      "readTime": "14 min read",
+      "coverImage": {
+        "url": "https://magazine.atavist.com/wp-content/uploads/2025/01/GettyImages-1233615992.jpg",
+        "caption": "The struggle between blackshirts and reds continues—in new forms, in new places like in Ethiopia, where the same class forces that destroyed socialism in Europe are now tightening their grip on the Horn of Africa.",
+        "credit": "atavist.com"
+      },
+      "category": "Analysis",
+      "genre": "Political Theory",
+      "tags": ["Fascism", "Capitalism", "Communism", "Imperialism", "Ethiopia", "Parenti", "Class Struggle", "Anti-Imperialism"],
+      "featured": true,
+      "breaking": false,
+      "editors_pick": true,
+      "content": [
+        {
+          "type": "lede",
+          "text": "Over a century ago, in his great work Les Misérables, Victor Hugo queried: will the future arrive? Whether in the French Revolution at the dawn of the 19th century or the Communist Revolutions of the 20th century, the struggle for a free and just society founded on egalitarian principles seems to be humanity's most persistent demand."
+        },
+        {
+          "type": "paragraph",
+          "text": "After the overthrow and collapse of Soviet socialism, the world was told that liberal democratic capitalism had triumphed and that the historic quest for an alternative egalitarian social system had come to a close, with some even declaring the end of history. But in today's increasingly decaying capitalist system—with ongoing corporate attacks against humanity and the planet, the rise of far-right politics, and a glaring failure of social democracy—we are compelled to rephrase Hugo's question: do we have any future at all?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The class forces that exploit third world labor, destroy the natural environment, drive the economy into crises, and wage wars across the planet are the same class forces that pretend that there is no alternative to the capitalist system. The ruling class always tries to portray itself as the natural master of the prevailing social order. But history teaches us that the future does not belong to those who control the present."
+        },
+        {
+          "type": "subheading",
+          "text": "The Third World Is Not Poor. It Is Overexploited."
+        },
+        {
+          "type": "paragraph",
+          "text": "That expropriation of the third world has been going on for 400 years. And it brings us to a revelation that the apologists for empire refuse to acknowledge: the third world is not poor. You don't go to poor countries to make money. There are very few poor countries in this world—only the people are poor. These countries are not underdeveloped. They are overexploited."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ethiopia is a textbook example. The soil is rich. The water is abundant. The minerals are beneath the earth. The labor of 120 million people is among the most exploited on the continent. And yet, the country is called 'poor.' The poverty is not a lack of resources. It is a lack of control over those resources. The wealth leaves the country every single day—through debt service, through profit repatriation, through the systematic extraction that has been the hallmark of global capitalism for four centuries."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is what the late Michael Parenti understood with devastating clarity. In his book Blackshirts and Reds: Rational Fascism and the Overthrow of Communism, Parenti showed how 'rational fascism' renders service to capitalism, how corporate power undermines democracy, and how revolutions are a mass empowerment against the forces of exploitative privilege[reference:0][reference:1]. He defined fascism as the weapon of capitalism, not simply an extreme form of it[reference:2]. Fascism is not an aberration, he argued, but a 'rational' and integral component of the system[reference:3]."
+        },
+        {
+          "type": "subheading",
+          "text": "The Alliance of Capital and Fascism"
+        },
+        {
+          "type": "paragraph",
+          "text": "Born in 1883, the son of a blacksmith, young Benito Mussolini was a socialist organizer, agitator, and gifted journalist[reference:4]. His early manhood was marked by street brawls, arrests, and violent political activities. However, by the end of World War I, the Italian upper class began tempting him with recognition and promises of power. He did not hesitate to switch sides. Mussolini the Socialist—once a champion of workers and peasants—had become Mussolini the Fascist, who broke strikes on behalf of finance and landowners and joined the blackshirt terrorism of trade unionists, socialists, and farm cooperatives."
+        },
+        {
+          "type": "paragraph",
+          "text": "After World War I, Italy had settled into a pattern of parliamentary democracy. The trains were running on time. Pay scales were improving. But the economy was in a recession. The ruling class aimed to maintain their profit margins by slashing wages and raising prices. To achieve this, the democratic rights protecting the masses' living standards were abolished. In 1922, industry leaders, banking representatives, and agribusiness associations collaborated, planned, and contributed 20 million lire to Mussolini to carry out the March on Rome. With the additional support of the Italian military police, the March on Rome unfolded into a coup, and Mussolini assumed power."
+        },
+        {
+          "type": "paragraph",
+          "text": "Within two years of seizing state power, Mussolini silenced all opposition newspapers and crushed the Socialist, Liberal, Catholic, Democratic, and Republican parties—which together had commanded some 80 percent of the vote. The Italian Communist Party suffered the harshest repression of all, as it put up the most bitter resistance not only to the blackshirts but to the German occupation forces as well."
+        },
+        {
+          "type": "paragraph",
+          "text": "A similar pattern of collaboration between fascists and capitalists emerged in Germany. Business tycoons came to the conclusion that the Weimar Republic no longer served their class interests. Hitler's campaign was financed by industrialists who also subsidized the Nazi SA, which formed anti-labor paramilitary groups to terrorize trade unions. Funds from big business also allowed Hitler to travel to 50 cities in the last two weeks of the 1932 campaign alone—which yielded the Nazis an unprecedented 37.3 percent of the vote[reference:5]."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the 1932 presidential election, three candidates ran: the conservative incumbent Field Marshal Von Hindenburg, the Nazi candidate Adolf Hitler, and the Communist Party candidate Ernst Thälmann. In his campaign, Thälmann argued that a vote for Hindenburg amounted to a vote for Hitler, and that Hitler would lead Germany into war. Despite these prophetic warnings, Hindenburg was reelected and Hitler was appointed Chancellor. The Communists attempted to form an 11th hour coalition with the Social Democrats, but true to Social Democratic form, they preferred to ally themselves with the reactionary right rather than make common cause with the Reds."
+        },
+        {
+          "type": "blockquote",
+          "text": "In both Italy in the 1920s and Germany in the 1930s, two nations with different histories, cultures, languages, and supposedly different temperaments ended up with the same repressive solutions to class conflict. Fascism reintroduced old industrial evils thought to have passed permanently into history.",
+          "attribution": "Adapted from Michael Parenti, Blackshirts and Reds"
+        },
+        {
+          "type": "subheading",
+          "text": "What Fascism Did for Capital"
+        },
+        {
+          "type": "paragraph",
+          "text": "As the conditions of labor deteriorated in the name of saving society from the 'Red Menace,' minimum wage laws, overtime hours, restrictions on child labor, and safety regulations were abolished. Unions and strikes were outlawed. The property of unions and farm cooperatives was confiscated and handed over to rich private owners[reference:6]. Both Mussolini and Hitler showed their gratitude to their big business patrons by privatizing many perfectly solvent state assets—including steel mills, power plants, banks, and steamship companies[reference:7]. At the same time, they raised taxes for the general population but lowered or eliminated them for the rich and big businesses[reference:8]. They crushed organized labor and eradicated all elections, opposition parties, and independent publications. Hundreds of thousands of political opponents were either imprisoned, tortured, or murdered until socialist dissidents were virtually nonexistent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fascism's economic function was to serve the interests of capital, as Marxist political economists like Daniel Guérin argued in his 1939 book Fascism and Big Business[reference:9]. Fascist parties were formed out of coalitions of armed anti-labor forces. The fascist government was ready and willing to protect the property and profits of big business[reference:10]. While plenty of industrialists and finance capitalists supported 'bourgeois democracy,' fascism required funding only from a reactionary segment of that class to deliver its message to a mass base[reference:11]."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Italy and Germany alike, fascism was subsidized by the magnates of heavy industry (iron and steel, mining) and by big bankers with a stake in heavy industry[reference:12]. At first covertly, then increasingly openly, layers of big business financed and promoted the fascist movements[reference:13]. The fascists' initially radical anticapitalist demagogy was replaced by moves to shore up the capitalist profit system once they formed the government[reference:14]."
+        },
+        {
+          "type": "subheading",
+          "text": "American Business and the Nazis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Italian Fascism and German Nazism also had their admirers within the US business community and the corporate-owned press. Bankers, publishers, and industrialists such as Henry Ford traveled to Rome and Berlin to pay homage, receive medals, and strike profitable deals with the Italian and German governments. Many did their utmost to advance the Nazi war effort by sharing military-industrial secrets or engaging in secret transactions with the Nazi government."
+        },
+        {
+          "type": "paragraph",
+          "text": "In December 1941, when the U.S. entered World War II, 250 American firms owned more than $450 million of German assets[reference:15]. Major American companies with investments in Germany included General Motors, IT&T, Eastman Kodak, Standard Oil, Singer, International Harvester, Gillette, Coca-Cola, Kraft, Westinghouse, and United Fruit[reference:16]. The German subsidiaries of these corporations eagerly sold equipment, weapons, and fuel needed for the German war machine[reference:17]. The Rockefeller family's Chase National Bank laundered Nazi money, while corporations like Ford, General Motors, and ITT owned factories in enemy countries that produced fuel tanks and planes that ravaged Allied forces[reference:18]."
+        },
+        {
+          "type": "paragraph",
+          "text": "Despite these acts of treason, many of these U.S. corporations were later compensated for damages inflicted on their property during the war—ITT collected $27 million, and GM collected over $33 million. During bombing campaigns, Allied pilots were given instructions not to hit factories in Germany that were owned by U.S. firms. The German city of Cologne, for example, was almost completely leveled by Allied bombing, but its Ford plant remained unscathed, to the point that German civilians even began using it as an air raid shelter[reference:19]."
+        },
+        {
+          "type": "paragraph",
+          "text": "A key roadblock to America's late entry into the Second World War was behind-the-scenes pressure from U.S. corporations seeking to protect their profitable business selling to both sides[reference:20]. Corporations were delighted with the profits that came from rearming Germany and then supplying both sides of the war[reference:21]. The accused companies include General Motors, IT&T, Eastman Kodak, Ford Motor Company, Coca-Cola, and IBM[reference:22]."
+        },
+        {
+          "type": "subheading",
+          "text": "The Strategy of Tension: Fascism After the War"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Western capitalist allies did little to eradicate fascism from Italy or Germany after the war, except for putting some of the top leaders on trial at Nuremberg[reference:23]. Within a year after the war, almost all Italian fascists were released from prison, while hundreds of Communists and other left partisans who had been fighting the Nazi occupation were jailed. History was turned on its head, transforming the blackshirts into victims and the Reds into criminals."
+        },
+        {
+          "type": "paragraph",
+          "text": "During the Cold War, the U.S. also played a major role in resurrecting Italian fascism as a bulwark against the Communist Party's popularity. In the 30 years after World War II, the U.S. gave approximately $75 million to right-wing movements in Italy, which helped finance and establish a NATO-inspired anti-communist mercenary force that launched a terror and sabotage campaign known as the 'strategy of tension'[reference:24]. Between 1969 and 1974, terrorist conspirators carried out a series of kidnappings, assassinations, and bombing massacres—including one at a Bologna train station that killed 85 people and injured roughly 200. Similar terrorist attacks also killed scores of people in Germany, Belgium, and other European countries but went mostly unreported in the U.S. corporate-owned media. The strategy of tension was designed to create enough popular fear and uncertainty as to undermine the existing social democracies[reference:25]."
+        },
+        {
+          "type": "subheading",
+          "text": "Communism's Achievements—and the Lies About It"
+        },
+        {
+          "type": "paragraph",
+          "text": "When the revolution distributes justice to oligarchs and oppressors, we make no tally of the generations claimed by economic exploitation and political suppression. The hapless victims of flood and famine in the Yangzi Valley. The child prostitutes found dead in the back alleys of old Shanghai. The peasants stricken by cold and starvation across the frozen plains of Russia. No one tallies the thousands of nameless victims who succumb to U.S.-trained death squads in Latin America, the hundreds of villages burned to the ground by counterinsurgency forces, the millions who are driven from their ancestral lands and sentenced to permanently stunted and malnourished lives."
+        },
+        {
+          "type": "paragraph",
+          "text": "And what of the Communist governments? The true offense of these societies wasn't that they oppressed people—but that they championed the interests of the laboring classes against the wealthy elite. They advocated for a redistribution of class power and wealth and promoted the collective betterment of the working populace rather than a select few. Communists asserted the people's right to benefit from the resources of their own country and seized the property of the wealthy elite to redistribute among the masses toward the goal of social development. Communism demonstrated an alternative social system to capitalism and was therefore ruthlessly demonized and attacked by the capitalist class and its privately owned media."
+        },
+        {
+          "type": "paragraph",
+          "text": "As one revolutionary put it: 'They would have us believe that Communists merely hunger for power rather than wanting the power to end Hunger.' What is so offensive about a land reform program that took massive land owned by those few rich compradors and gave it out to the people who starved for land? What is so offensive about farm co-ops, community industries, and public work programs to create jobs for people who have been chronically unemployed? What is so offensive about a food program—a ration of beans and rice for every child so that nobody, no matter how poor that country is, goes hungry?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuba is a lasting example. Between 1960 and 1991, infant mortality dropped from six to less than one percent. Life expectancy rose from 55 to 75. Smallpox, malaria, tuberculosis, polio, and numerous other diseases were wiped out. Literacy increased to a rate higher than most third world countries and even some advanced industrial nations. This small Caribbean country remains a lasting beacon of hope and inspiration for revolutions across the world. Cuba is being punished to this day simply because it dared to develop an alternative socioeconomic order that places corporate property under public ownership, abolishes capitalist investors as a class, puts people before profits, and prioritizes national independence before IMF servitude."
+        },
+        {
+          "type": "subheading",
+          "text": "What This Means for Ethiopia"
+        },
+        {
+          "type": "paragraph",
+          "text": "The pattern of capital-fascist alliance is not ancient history. It is the present. In Ethiopia today, we see the same dynamics unfolding. The IMF demands liberalization. The government complies. The birr is devalued. Subsidies are cut. Public assets—Ethiopian Airlines, Ethio Telecom, the banks—are being sold to foreign investors. The comprador bourgeoisie grows rich. The working class grows poor. And the ethnic divisions that keep the poor fighting each other are cultivated by the same ruling class that profits from the division."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Prosperity Party is not a fascist party—not yet. But it serves the same function: managing the affairs of capital, suppressing dissent, and maintaining the conditions for extraction. The crackdown on Addis Standard, the expulsion of journalists, the surveillance of citizens, the militarization of the state, the ethnic violence that serves the ruling class—these are not aberrations. They are the 'rational' response of a regime that has chosen to serve capital over people."
+        },
+        {
+          "type": "paragraph",
+          "text": "The history of capitalism is the history of the ruling class's willingness to embrace fascism when its profits are threatened. In Italy, in Germany, in Chile, in Argentina, in Indonesia—wherever the working class has threatened the property of the rich, the rich have turned to fascism. And the liberal democrats have stood by, or actively collaborated, because they too serve capital."
+        },
+        {
+          "type": "subheading",
+          "text": "What Is to Be Done?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The first step is to reject the lie that there is no alternative. The Soviet Union, China, Cuba, Vietnam—all demonstrated that another world is possible. They had failures. They had contradictions. They had bureaucracies and abuses. But they also lifted hundreds of millions of people out of poverty, illiteracy, and disease. They demonstrated that the working class could control the means of production and organize society for human need, not private profit."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second step is to recognize that the enemy is not the Amhara or the Oromo or the Tigrayan. The enemy is the system that divides the working class. The enemy is the comprador bourgeoisie that profits from ethnic conflict. The enemy is the IMF that demands austerity. The enemy is the global capitalist system that extracts wealth from the third world and transfers it to the first."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third step is to organize. To build the unions, the peasant associations, the tenant councils, the student movements, the revolutionary party that can break the chain of exploitation. The Ethiopian revolution will not be won by a single leader or a single dramatic event. It will be won by millions of ordinary people acting together, refusing to be divided, demanding everything."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Cuban revolutionaries did not wait for the perfect moment. They organized, they struggled, they made mistakes, and they won. The Vietnamese did not wait for permission. They fought for 30 years and they won. The Russian revolutionaries did not wait for the capitalists to become generous. They seized power and they built a new world."
+        },
+        {
+          "type": "paragraph",
+          "text": "The time is coming in Ethiopia. The crisis is deepening. The contradictions are sharpening. The ruling class is divided. The masses are restless. The conditions are ripe."
+        },
+        {
+          "type": "paragraph",
+          "text": "What is missing is the organization. What is missing is the class consciousness. What is missing is the refusal to be divided."
+        },
+        {
+          "type": "blockquote",
+          "text": "The true offense of these communist societies wasn't that they oppressed people—but that they championed the interests of the laboring classes against the wealthy elite. They advocated for a redistribution of class power and wealth and promoted the collective betterment of the working populace rather than a select few.",
+          "attribution": "Adapted from Michael Parenti"
+        },
+        {
+          "type": "subheading",
+          "text": "The Call"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are angry, good. Be angry. But be angry at the right target. The target is not your neighbor. The target is the system. The target is the billionaire. The target is the IMF. The target is the comprador bourgeoisie. The target is the global capitalist order that has spent 400 years extracting wealth from Africa and calling it 'development.'"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are ready to build, not just read, then contact me. We are building a network of workers, peasants, students, and professionals who are ready to move beyond analysis and into action. We meet weekly. We study the science. We learn from history. We prepare for the struggles ahead."
+        },
+        {
+          "type": "paragraph",
+          "text": "The blackshirts are not coming. They are already here. They are in the halls of power. They are in the boardrooms of the banks. They are in the offices of the IMF. They are in the ministries that sell your assets and call it 'reform.' And they are afraid. They are afraid because they know the reds are coming. The reds are the working class. The reds are the peasants. The reds are the youth. The reds are all of us who refuse to be exploited."
+        },
+        {
+          "type": "paragraph",
+          "text": "The struggle between blackshirts and reds is not over. It never ended. It just changed location. And now it is in Ethiopia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Which side are you on?"
+        },
+        {
+          "type": "callout",
+          "text": "If you are ready to build, not just read, contact the author at pfle-dialogue@proton.me or follow on X at https://x.com/SidocHaytu."
+        }
+      ]
+    }
+  ]
+}

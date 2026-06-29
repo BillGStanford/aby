@@ -1,0 +1,64 @@
+{
+  "ads": [
+    {
+      "id": "ad_telegram_channel",
+      "type": "channel_promo",
+      "platform": "telegram",
+      "headline": "Get Analysis Before the Headlines",
+      "body": "Join our Telegram channel for real-time dispatches, breaking analysis, and discussions that don't fit a news cycle.",
+      "cta": "Join @AbyotPress",
+      "url": "https://t.me/+9SqgNhz9LE0wMmQx",
+      "icon": "send",
+      "accentColor": "#229ED9",
+      "label": "Our Channel"
+    },
+    {
+      "id": "ad_substack",
+      "type": "newsletter_promo",
+      "platform": "substack",
+      "headline": "The Revolutionary Dispatch",
+      "body": "Subscriber-exclusive essays, reading lists, and theory — straight to your inbox, weekly.",
+      "cta": "Subscribe Free",
+      "url": "https://abyot.substack.com",
+      "icon": "mail",
+      "accentColor": "#FF6719",
+      "label": "Newsletter"
+    },
+    {
+      "id": "ad_youtube",
+      "type": "channel_promo",
+      "platform": "youtube",
+      "headline": "Watch the Video Essays",
+      "body": "Lectures on political economy, revolutionary history, and Ethiopian politics — in video form.",
+      "cta": "Watch on YouTube",
+      "url": "https://youtube.com/@AbyotPress",
+      "icon": "play-circle",
+      "accentColor": "#FF0000",
+      "label": "Video"
+    },
+    {
+      "id": "ad_addis_standard",
+      "type": "external_promo",
+      "platform": "addis_standard",
+      "headline": "Also in Addis Standard",
+      "body": "Our editor's column appears regularly in Ethiopia's leading English-language publication.",
+      "cta": "Read the Column",
+      "url": "https://addisstandard.com",
+      "icon": "newspaper",
+      "accentColor": "#1a1a1a",
+      "label": "Column"
+    },
+    {
+      "id": "ad_submissions",
+      "type": "internal_promo",
+      "platform": "internal",
+      "headline": "Write for Abyot",
+      "body": "We publish original analysis from organizers, scholars, and working people. Send your pitch.",
+      "cta": "Submit a Piece",
+      "url": "/contact",
+      "icon": "pen-line",
+      "accentColor": "#B91C1C",
+      "label": "Contribute"
+    }
+  ]
+}

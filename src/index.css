@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── Base resets ─────────────────────────────────────────────────── */
+@layer base {
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-abyot-paper text-abyot-black;
+    font-family: 'Source Serif 4', Georgia, serif;
+  }
+
+  /* Selection highlight */
+  ::selection {
+    background-color: #C9A84C40;
+    color: #0A0A0A;
+  }
+
+  /* Focus ring */
+  :focus-visible {
+    outline: 2px solid #B91C1C;
+    outline-offset: 2px;
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #F5F0E8;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #D1C9BC;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #B91C1C;
+  }
+
+  img {
+    display: block;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+/* ─── Typography utilities ────────────────────────────────────────── */
+@layer components {
+  .article-prose p + p {
+    margin-top: 1.25rem;
+  }
+
+  /* Annotation highlight effect on selected text within article body */
+  #article-body::selection,
+  #article-body *::selection {
+    background-color: rgba(201, 168, 76, 0.3);
+  }
+
+  /* Smooth image loading */
+  img {
+    transition: opacity 0.3s ease;
+  }
+
+  img[loading="lazy"] {
+    opacity: 0;
+  }
+
+  img[loading="lazy"].loaded,
+  img:not([loading]) {
+    opacity: 1;
+  }
+}
+
+/* ─── Reduced motion ──────────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ─── Print styles ────────────────────────────────────────────────── */
+@media print {
+  header, footer, aside, nav, .no-print {
+    display: none !important;
+  }
+
+  body {
+    font-size: 12pt;
+    color: #000;
+    background: #fff;
+  }
+
+  a::after {
+    content: ' (' attr(href) ')';
+    font-size: 0.8em;
+    color: #666;
+  }
+}
